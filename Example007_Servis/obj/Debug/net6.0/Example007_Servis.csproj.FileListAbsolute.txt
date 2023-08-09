@@ -1,0 +1,15 @@
+C:\Users\Alex & Lena\Documents\Обучение\Examples\Example007_Servis\bin\Debug\net6.0\Example007_Servis.exe
+C:\Users\Alex & Lena\Documents\Обучение\Examples\Example007_Servis\bin\Debug\net6.0\Example007_Servis.deps.json
+C:\Users\Alex & Lena\Documents\Обучение\Examples\Example007_Servis\bin\Debug\net6.0\Example007_Servis.runtimeconfig.json
+C:\Users\Alex & Lena\Documents\Обучение\Examples\Example007_Servis\bin\Debug\net6.0\Example007_Servis.dll
+C:\Users\Alex & Lena\Documents\Обучение\Examples\Example007_Servis\bin\Debug\net6.0\Example007_Servis.pdb
+C:\Users\Alex & Lena\Documents\Обучение\Examples\Example007_Servis\obj\Debug\net6.0\Example007_Servis.csproj.AssemblyReference.cache
+C:\Users\Alex & Lena\Documents\Обучение\Examples\Example007_Servis\obj\Debug\net6.0\Example007_Servis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex & Lena\Documents\Обучение\Examples\Example007_Servis\obj\Debug\net6.0\Example007_Servis.AssemblyInfoInputs.cache
+C:\Users\Alex & Lena\Documents\Обучение\Examples\Example007_Servis\obj\Debug\net6.0\Example007_Servis.AssemblyInfo.cs
+C:\Users\Alex & Lena\Documents\Обучение\Examples\Example007_Servis\obj\Debug\net6.0\Example007_Servis.csproj.CoreCompileInputs.cache
+C:\Users\Alex & Lena\Documents\Обучение\Examples\Example007_Servis\obj\Debug\net6.0\Example007_Servis.dll
+C:\Users\Alex & Lena\Documents\Обучение\Examples\Example007_Servis\obj\Debug\net6.0\refint\Example007_Servis.dll
+C:\Users\Alex & Lena\Documents\Обучение\Examples\Example007_Servis\obj\Debug\net6.0\Example007_Servis.pdb
+C:\Users\Alex & Lena\Documents\Обучение\Examples\Example007_Servis\obj\Debug\net6.0\Example007_Servis.genruntimeconfig.cache
+C:\Users\Alex & Lena\Documents\Обучение\Examples\Example007_Servis\obj\Debug\net6.0\ref\Example007_Servis.dll
