@@ -1,0 +1,15 @@
+C:\Users\Alex & Lena\Documents\Обучение\Examples\Task3_(Ver2.0)\bin\Debug\net6.0\Task3_(Ver2.0).exe
+C:\Users\Alex & Lena\Documents\Обучение\Examples\Task3_(Ver2.0)\bin\Debug\net6.0\Task3_(Ver2.0).deps.json
+C:\Users\Alex & Lena\Documents\Обучение\Examples\Task3_(Ver2.0)\bin\Debug\net6.0\Task3_(Ver2.0).runtimeconfig.json
+C:\Users\Alex & Lena\Documents\Обучение\Examples\Task3_(Ver2.0)\bin\Debug\net6.0\Task3_(Ver2.0).dll
+C:\Users\Alex & Lena\Documents\Обучение\Examples\Task3_(Ver2.0)\bin\Debug\net6.0\Task3_(Ver2.0).pdb
+C:\Users\Alex & Lena\Documents\Обучение\Examples\Task3_(Ver2.0)\obj\Debug\net6.0\Task3_(Ver2.0).csproj.AssemblyReference.cache
+C:\Users\Alex & Lena\Documents\Обучение\Examples\Task3_(Ver2.0)\obj\Debug\net6.0\Task3_(Ver2.0).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex & Lena\Documents\Обучение\Examples\Task3_(Ver2.0)\obj\Debug\net6.0\Task3_(Ver2.0).AssemblyInfoInputs.cache
+C:\Users\Alex & Lena\Documents\Обучение\Examples\Task3_(Ver2.0)\obj\Debug\net6.0\Task3_(Ver2.0).AssemblyInfo.cs
+C:\Users\Alex & Lena\Documents\Обучение\Examples\Task3_(Ver2.0)\obj\Debug\net6.0\Task3_(Ver2.0).csproj.CoreCompileInputs.cache
+C:\Users\Alex & Lena\Documents\Обучение\Examples\Task3_(Ver2.0)\obj\Debug\net6.0\Task3_(Ver2.0).dll
+C:\Users\Alex & Lena\Documents\Обучение\Examples\Task3_(Ver2.0)\obj\Debug\net6.0\refint\Task3_(Ver2.0).dll
+C:\Users\Alex & Lena\Documents\Обучение\Examples\Task3_(Ver2.0)\obj\Debug\net6.0\Task3_(Ver2.0).pdb
+C:\Users\Alex & Lena\Documents\Обучение\Examples\Task3_(Ver2.0)\obj\Debug\net6.0\Task3_(Ver2.0).genruntimeconfig.cache
+C:\Users\Alex & Lena\Documents\Обучение\Examples\Task3_(Ver2.0)\obj\Debug\net6.0\ref\Task3_(Ver2.0).dll
