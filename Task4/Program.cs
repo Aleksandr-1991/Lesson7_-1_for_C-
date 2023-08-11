@@ -5,4 +5,4 @@ while (i < (number + 1))
 {
     Console.Write(i + ", ");
     i++;
-}   
+}
