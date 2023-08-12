@@ -9,8 +9,10 @@ if (number1 == number2)
 else if (number1 > number2)
 {
     Console.WriteLine("Наибольшее из них: " + number1);
+    Console.WriteLine("Наименьшее из них: " + number2);
 }
 else
 {
     Console.WriteLine("Наибольшее из них: " + number2);
+    Console.WriteLine("Наименьшее из них: " + number1);
 }
