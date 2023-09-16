@@ -13,3 +13,18 @@ C:\Users\Alex & Lena\Documents\Обучение\Examples\Example007_Servis\obj\D
 C:\Users\Alex & Lena\Documents\Обучение\Examples\Example007_Servis\obj\Debug\net6.0\Example007_Servis.pdb
 C:\Users\Alex & Lena\Documents\Обучение\Examples\Example007_Servis\obj\Debug\net6.0\Example007_Servis.genruntimeconfig.cache
 C:\Users\Alex & Lena\Documents\Обучение\Examples\Example007_Servis\obj\Debug\net6.0\ref\Example007_Servis.dll
+C:\Обуч!\Lesson7_(1_for_C#)\Example007_Servis_of_triangle\bin\Debug\net6.0\Example007_Servis.exe
+C:\Обуч!\Lesson7_(1_for_C#)\Example007_Servis_of_triangle\bin\Debug\net6.0\Example007_Servis.deps.json
+C:\Обуч!\Lesson7_(1_for_C#)\Example007_Servis_of_triangle\bin\Debug\net6.0\Example007_Servis.runtimeconfig.json
+C:\Обуч!\Lesson7_(1_for_C#)\Example007_Servis_of_triangle\bin\Debug\net6.0\Example007_Servis.dll
+C:\Обуч!\Lesson7_(1_for_C#)\Example007_Servis_of_triangle\bin\Debug\net6.0\Example007_Servis.pdb
+C:\Обуч!\Lesson7_(1_for_C#)\Example007_Servis_of_triangle\obj\Debug\net6.0\Example007_Servis.csproj.AssemblyReference.cache
+C:\Обуч!\Lesson7_(1_for_C#)\Example007_Servis_of_triangle\obj\Debug\net6.0\Example007_Servis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Обуч!\Lesson7_(1_for_C#)\Example007_Servis_of_triangle\obj\Debug\net6.0\Example007_Servis.AssemblyInfoInputs.cache
+C:\Обуч!\Lesson7_(1_for_C#)\Example007_Servis_of_triangle\obj\Debug\net6.0\Example007_Servis.AssemblyInfo.cs
+C:\Обуч!\Lesson7_(1_for_C#)\Example007_Servis_of_triangle\obj\Debug\net6.0\Example007_Servis.csproj.CoreCompileInputs.cache
+C:\Обуч!\Lesson7_(1_for_C#)\Example007_Servis_of_triangle\obj\Debug\net6.0\Example007_Servis.dll
+C:\Обуч!\Lesson7_(1_for_C#)\Example007_Servis_of_triangle\obj\Debug\net6.0\refint\Example007_Servis.dll
+C:\Обуч!\Lesson7_(1_for_C#)\Example007_Servis_of_triangle\obj\Debug\net6.0\Example007_Servis.pdb
+C:\Обуч!\Lesson7_(1_for_C#)\Example007_Servis_of_triangle\obj\Debug\net6.0\Example007_Servis.genruntimeconfig.cache
+C:\Обуч!\Lesson7_(1_for_C#)\Example007_Servis_of_triangle\obj\Debug\net6.0\ref\Example007_Servis.dll
