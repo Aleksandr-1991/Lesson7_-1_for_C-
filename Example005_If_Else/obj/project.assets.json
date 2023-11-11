@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Alex & Lena\\Documents\\Обучение\\Examples\\Example005_If_Else\\Example005_If_Else.csproj",
+      "projectUniqueName": "C:\\Обуч!\\Lesson7_(1_for_C#)\\Example005_If_Else\\Example005_If_Else.csproj",
       "projectName": "Example005_If_Else",
-      "projectPath": "C:\\Users\\Alex & Lena\\Documents\\Обучение\\Examples\\Example005_If_Else\\Example005_If_Else.csproj",
+      "projectPath": "C:\\Обуч!\\Lesson7_(1_for_C#)\\Example005_If_Else\\Example005_If_Else.csproj",
       "packagesPath": "C:\\Users\\Alex & Lena\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Alex & Lena\\Documents\\Обучение\\Examples\\Example005_If_Else\\obj\\",
+      "outputPath": "C:\\Обуч!\\Lesson7_(1_for_C#)\\Example005_If_Else\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Alex & Lena\\AppData\\Roaming\\NuGet\\NuGet.Config"
