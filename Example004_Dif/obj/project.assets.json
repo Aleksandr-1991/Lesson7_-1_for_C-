@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Alex & Lena\\Documents\\Обучение\\Examples\\Example004_Dif\\Example004_Dif.csproj",
+      "projectUniqueName": "C:\\Обуч!\\Lesson7_(1_for_C#)\\Example004_Dif\\Example004_Dif.csproj",
       "projectName": "Example004_Dif",
-      "projectPath": "C:\\Users\\Alex & Lena\\Documents\\Обучение\\Examples\\Example004_Dif\\Example004_Dif.csproj",
+      "projectPath": "C:\\Обуч!\\Lesson7_(1_for_C#)\\Example004_Dif\\Example004_Dif.csproj",
       "packagesPath": "C:\\Users\\Alex & Lena\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Alex & Lena\\Documents\\Обучение\\Examples\\Example004_Dif\\obj\\",
+      "outputPath": "C:\\Обуч!\\Lesson7_(1_for_C#)\\Example004_Dif\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Alex & Lena\\AppData\\Roaming\\NuGet\\NuGet.Config"

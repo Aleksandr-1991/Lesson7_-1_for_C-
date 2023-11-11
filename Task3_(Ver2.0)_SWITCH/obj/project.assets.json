@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Alex & Lena\\Documents\\Обучение\\Examples\\Task3_(Ver2.0)\\Task3_(Ver2.0).csproj",
+      "projectUniqueName": "C:\\Обуч!\\Lesson7_(1_for_C#)\\Task3_(Ver2.0)_SWITCH\\Task3_(Ver2.0).csproj",
       "projectName": "Task3_(Ver2.0)",
-      "projectPath": "C:\\Users\\Alex & Lena\\Documents\\Обучение\\Examples\\Task3_(Ver2.0)\\Task3_(Ver2.0).csproj",
+      "projectPath": "C:\\Обуч!\\Lesson7_(1_for_C#)\\Task3_(Ver2.0)_SWITCH\\Task3_(Ver2.0).csproj",
       "packagesPath": "C:\\Users\\Alex & Lena\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Alex & Lena\\Documents\\Обучение\\Examples\\Task3_(Ver2.0)\\obj\\",
+      "outputPath": "C:\\Обуч!\\Lesson7_(1_for_C#)\\Task3_(Ver2.0)_SWITCH\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Alex & Lena\\AppData\\Roaming\\NuGet\\NuGet.Config"
