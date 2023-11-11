@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Alex & Lena\\Documents\\Обучение\\Examples\\Task4\\Task4.csproj": {}
+    "C:\\Обуч!\\Lesson7_(1_for_C#)\\Task4\\Task4.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Alex & Lena\\Documents\\Обучение\\Examples\\Task4\\Task4.csproj": {
+    "C:\\Обуч!\\Lesson7_(1_for_C#)\\Task4\\Task4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Alex & Lena\\Documents\\Обучение\\Examples\\Task4\\Task4.csproj",
+        "projectUniqueName": "C:\\Обуч!\\Lesson7_(1_for_C#)\\Task4\\Task4.csproj",
         "projectName": "Task4",
-        "projectPath": "C:\\Users\\Alex & Lena\\Documents\\Обучение\\Examples\\Task4\\Task4.csproj",
+        "projectPath": "C:\\Обуч!\\Lesson7_(1_for_C#)\\Task4\\Task4.csproj",
         "packagesPath": "C:\\Users\\Alex & Lena\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Alex & Lena\\Documents\\Обучение\\Examples\\Task4\\obj\\",
+        "outputPath": "C:\\Обуч!\\Lesson7_(1_for_C#)\\Task4\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Alex & Lena\\AppData\\Roaming\\NuGet\\NuGet.Config"

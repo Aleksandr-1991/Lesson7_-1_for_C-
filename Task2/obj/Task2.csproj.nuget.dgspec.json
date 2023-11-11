@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Alex & Lena\\Documents\\Обучение\\Examples\\Task2\\Task2.csproj": {}
+    "C:\\Обуч!\\Lesson7_(1_for_C#)\\Task2\\Task2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Alex & Lena\\Documents\\Обучение\\Examples\\Task2\\Task2.csproj": {
+    "C:\\Обуч!\\Lesson7_(1_for_C#)\\Task2\\Task2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Alex & Lena\\Documents\\Обучение\\Examples\\Task2\\Task2.csproj",
+        "projectUniqueName": "C:\\Обуч!\\Lesson7_(1_for_C#)\\Task2\\Task2.csproj",
         "projectName": "Task2",
-        "projectPath": "C:\\Users\\Alex & Lena\\Documents\\Обучение\\Examples\\Task2\\Task2.csproj",
+        "projectPath": "C:\\Обуч!\\Lesson7_(1_for_C#)\\Task2\\Task2.csproj",
         "packagesPath": "C:\\Users\\Alex & Lena\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Alex & Lena\\Documents\\Обучение\\Examples\\Task2\\obj\\",
+        "outputPath": "C:\\Обуч!\\Lesson7_(1_for_C#)\\Task2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Alex & Lena\\AppData\\Roaming\\NuGet\\NuGet.Config"

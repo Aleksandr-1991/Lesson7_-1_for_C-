@@ -13,3 +13,33 @@ C:\Users\Alex & Lena\Documents\Обучение\Examples\HomeWork7-1-4\obj\Debug
 C:\Users\Alex & Lena\Documents\Обучение\Examples\HomeWork7-1-4\obj\Debug\net6.0\HomeWork7-1-4.pdb
 C:\Users\Alex & Lena\Documents\Обучение\Examples\HomeWork7-1-4\obj\Debug\net6.0\HomeWork7-1-4.genruntimeconfig.cache
 C:\Users\Alex & Lena\Documents\Обучение\Examples\HomeWork7-1-4\obj\Debug\net6.0\ref\HomeWork7-1-4.dll
+C:\Обуч!\Examples\HomeWork7-1-4\bin\Debug\net6.0\HomeWork7-1-4.exe
+C:\Обуч!\Examples\HomeWork7-1-4\bin\Debug\net6.0\HomeWork7-1-4.deps.json
+C:\Обуч!\Examples\HomeWork7-1-4\bin\Debug\net6.0\HomeWork7-1-4.runtimeconfig.json
+C:\Обуч!\Examples\HomeWork7-1-4\bin\Debug\net6.0\HomeWork7-1-4.dll
+C:\Обуч!\Examples\HomeWork7-1-4\bin\Debug\net6.0\HomeWork7-1-4.pdb
+C:\Обуч!\Examples\HomeWork7-1-4\obj\Debug\net6.0\HomeWork7-1-4.csproj.AssemblyReference.cache
+C:\Обуч!\Examples\HomeWork7-1-4\obj\Debug\net6.0\HomeWork7-1-4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Обуч!\Examples\HomeWork7-1-4\obj\Debug\net6.0\HomeWork7-1-4.AssemblyInfoInputs.cache
+C:\Обуч!\Examples\HomeWork7-1-4\obj\Debug\net6.0\HomeWork7-1-4.AssemblyInfo.cs
+C:\Обуч!\Examples\HomeWork7-1-4\obj\Debug\net6.0\HomeWork7-1-4.csproj.CoreCompileInputs.cache
+C:\Обуч!\Examples\HomeWork7-1-4\obj\Debug\net6.0\HomeWork7-1-4.dll
+C:\Обуч!\Examples\HomeWork7-1-4\obj\Debug\net6.0\refint\HomeWork7-1-4.dll
+C:\Обуч!\Examples\HomeWork7-1-4\obj\Debug\net6.0\HomeWork7-1-4.pdb
+C:\Обуч!\Examples\HomeWork7-1-4\obj\Debug\net6.0\HomeWork7-1-4.genruntimeconfig.cache
+C:\Обуч!\Examples\HomeWork7-1-4\obj\Debug\net6.0\ref\HomeWork7-1-4.dll
+C:\Обуч!\Lesson7_(1_for_C#)\HomeWork7-1-4\bin\Debug\net6.0\HomeWork7-1-4.exe
+C:\Обуч!\Lesson7_(1_for_C#)\HomeWork7-1-4\bin\Debug\net6.0\HomeWork7-1-4.deps.json
+C:\Обуч!\Lesson7_(1_for_C#)\HomeWork7-1-4\bin\Debug\net6.0\HomeWork7-1-4.runtimeconfig.json
+C:\Обуч!\Lesson7_(1_for_C#)\HomeWork7-1-4\bin\Debug\net6.0\HomeWork7-1-4.dll
+C:\Обуч!\Lesson7_(1_for_C#)\HomeWork7-1-4\bin\Debug\net6.0\HomeWork7-1-4.pdb
+C:\Обуч!\Lesson7_(1_for_C#)\HomeWork7-1-4\obj\Debug\net6.0\HomeWork7-1-4.csproj.AssemblyReference.cache
+C:\Обуч!\Lesson7_(1_for_C#)\HomeWork7-1-4\obj\Debug\net6.0\HomeWork7-1-4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Обуч!\Lesson7_(1_for_C#)\HomeWork7-1-4\obj\Debug\net6.0\HomeWork7-1-4.AssemblyInfoInputs.cache
+C:\Обуч!\Lesson7_(1_for_C#)\HomeWork7-1-4\obj\Debug\net6.0\HomeWork7-1-4.AssemblyInfo.cs
+C:\Обуч!\Lesson7_(1_for_C#)\HomeWork7-1-4\obj\Debug\net6.0\HomeWork7-1-4.csproj.CoreCompileInputs.cache
+C:\Обуч!\Lesson7_(1_for_C#)\HomeWork7-1-4\obj\Debug\net6.0\HomeWork7-1-4.dll
+C:\Обуч!\Lesson7_(1_for_C#)\HomeWork7-1-4\obj\Debug\net6.0\refint\HomeWork7-1-4.dll
+C:\Обуч!\Lesson7_(1_for_C#)\HomeWork7-1-4\obj\Debug\net6.0\HomeWork7-1-4.pdb
+C:\Обуч!\Lesson7_(1_for_C#)\HomeWork7-1-4\obj\Debug\net6.0\HomeWork7-1-4.genruntimeconfig.cache
+C:\Обуч!\Lesson7_(1_for_C#)\HomeWork7-1-4\obj\Debug\net6.0\ref\HomeWork7-1-4.dll
