@@ -1,6 +1,6 @@
 ﻿Console.Write("Введите число от 1 до 7: ");
 int number = Convert.ToInt32(Console.ReadLine());
-switch (number)  // обратить внимание!
+switch (number)    // обратить внимание!
 {
     case 1:
     Console.WriteLine("Понедельник");
