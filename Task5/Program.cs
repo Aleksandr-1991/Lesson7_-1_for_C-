@@ -7,7 +7,7 @@ if (number/100==0 || number/1000 != 0)
 // else Console.Write (number % 10 * -1);  // моя версия)
 else { 
     if (number<0)  {number *= -1;}
-do   // новый самостоятельный оператор.
+do
 {
     number -= 10;
 }
